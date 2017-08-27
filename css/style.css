@@ -1,0 +1,99 @@
+body{
+    background-color: #528881;
+    /*background-color: rgb(86, 61, 124)*/
+}
+
+div.main{
+    width: 70%;
+    /*border : 2px solid rgb(63,81,181);*/
+    margin: 0 auto;
+    text-align: center;
+    background-color: #d3d3d3;
+}
+#myName{
+    text-decoration: none;
+}
+h1{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    color:darkcyan;
+
+}
+img{
+    border-radius: 100px;
+
+}
+#myPic{
+    border: 3px solid black;
+    border-radius: 100px;
+
+}
+h1.cv
+{
+    text-align: center;
+}
+.intro
+{
+    color:slategray;
+}
+
+h3
+{
+ color: #000000;   
+}
+ul{
+    color: #000000;
+}
+h1.first
+{
+    font-weight: bold;
+    margin: 20px;
+}
+.underline
+{
+    text-decoration: underline;
+}
+
+a:link {
+color: darkcyan;
+text-decoration: none;}
+a:hover {
+color:black;
+text-decoration: underline;}
+figure{
+    text-align: center;
+}
+h4.about
+{
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+margin: 20px;
+}
+span.img
+{
+    margin: 70px;
+}
+div.skills
+{
+    word-spacing: 160px;
+    font-weight: bold;
+    margin-left: 60px;
+}
+p.contact
+{
+    font-size: 20px;
+}
+hr{
+    width: 500px;
+}
+.about
+{
+    
+    color: black;
+}
+hr.style4 {
+	border-top: 3px double black;
+}
+#occupation
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
